@@ -1,0 +1,33 @@
+{"films" : [
+  {
+  "fid" : 1,
+  "title" : "The Platform",
+  "year": 2019,
+  "genre": [1],
+  "director": 1,
+  "cast": [1] ,
+  "description": "A vertical prison with one cell per level. Two people per cell. One only food platform and two minutes per day to feed from up to down. An endless nightmare trapped in The Hole."
+  }
+],
+  "tvseries" : [
+    {
+      "tid" : 1,
+      "title" : "Breaking Bad",
+      "year": 2008,
+      "genre": [2],
+      "creator": 1,
+      "cast": [1] ,
+      "description": " A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future."
+    }
+  ],
+  "people" : [
+    { "pid": 1, "name" : "Galder Gaztelu-Urrutia" }
+  ],
+  "genres" : [
+    { "gid": 1, "genre": "Horror" },
+    { "gid": 2, "genre": "ASci-Fi" }
+  ],
+  "profiles": [
+    { "name": "Mewtwo", "preferredGenre": 1 }
+  ]
+}
